@@ -1,0 +1,7 @@
+{
+  "name": "netorg",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
